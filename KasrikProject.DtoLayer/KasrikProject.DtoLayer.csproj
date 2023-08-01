@@ -19,4 +19,15 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Dtos\AppRoleDtos\" />
+    <Folder Include="Dtos\CartDtos\" />
+    <Folder Include="Dtos\CartDetailDtos\" />
+    <Folder Include="Dtos\CategoryDtos\" />
+    <Folder Include="Dtos\ContactDtos\" />
+    <Folder Include="Dtos\ProductReviewDtos\" />
+    <Folder Include="Dtos\ProductDtos\" />
+    <Folder Include="Dtos\OrderDtos\" />
+  </ItemGroup>
+
 </Project>
